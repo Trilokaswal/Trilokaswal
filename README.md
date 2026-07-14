@@ -1,13 +1,13 @@
 # Hi 👋 I'm Trilok Aswal
 🎓 1st year B.Tech CSE Student at GEHU Dehradun
 
-🌱 Currently Learning
+## Currently Learning
 - Basic of Programming
 - C++
 - Data Structures
 - Algorithms
 
-🎯 2026 Goals
+## 2026 Goals
 - Master DSA
 - Solve 150+ Leetcode problems
 - Build small projects
