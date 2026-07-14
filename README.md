@@ -22,5 +22,3 @@
 - Git
 - Github
 - VS Code
-- GitHub
-- VS Code
