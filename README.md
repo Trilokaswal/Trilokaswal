@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Trilok Aswal
+🎓 1st year B.Tech CSE Student at GEHU Dehradun
 
-<!--
-**Trilokaswal/Trilokaswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning
+- Basic of Programming
+- C++
+- Data Structures
+- Algorithms
 
-Here are some ideas to get you started:
+🎯 2026 Goals
+- Master DSA
+- Solve 150+ Leetcode problems
+- Build small projects
+- Contribute to Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+- C++
+- Python (Learning)
+
+## Tools
+- Git
+- Github
+- VS Code
+- GitHub
+- VS Code
