@@ -1,5 +1,7 @@
 # Hi 👋 I'm Trilok Aswal
 🎓 1st year B.Tech CSE Student at GEHU Dehradun
+💻 Learning C++, DSA & AI
+🚀 Building projects and improving every day
 
 ## Currently Learning
 - Basic of Programming
