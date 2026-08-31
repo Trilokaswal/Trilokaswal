@@ -19,6 +19,7 @@
 
 ## Languages
 
+- C
 - C++
 - Python (Learning)
 
